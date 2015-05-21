@@ -20,14 +20,12 @@ requirements:
   build:
     - openssl
     - readline
-    - sqlite
     - tk
     - yaml
     - zlib
   run:
     - openssl
     - readline
-    - sqlite
     - tk
     - yaml
     - zlib
