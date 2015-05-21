@@ -17,9 +17,9 @@ test:
 
 requirements:
   build:
-    - ruby
+    - ruby ==1.9.3
   run:
-    - ruby
+    - ruby ==1.9.3
 
 about:
   home: https://github.com/thoughtbot/gitsh
